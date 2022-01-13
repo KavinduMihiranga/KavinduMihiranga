@@ -1,10 +1,16 @@
-### Hi there 👋
+### Hello, I'm Kavindu Mihiranga! 👋
+
+- 🔭 I’m currently Studying in IJSE.
+- 🌱 I’m currently learning Java.
+- 💬 Ask me about anythings.
+- 📫 How to reach me: LinkedIn,Facebook.
+- 😄 Pronouns: He/His.
+- ⚡ Fun fact: I spend lot of time lestning to songs everyday.
 
 <!--
 **KavinduMihiranga/KavinduMihiranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
